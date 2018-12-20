@@ -1,0 +1,4 @@
+*.log
+emperor.ini
+__pycache__/
+baseline_20181220/
