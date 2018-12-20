@@ -55,8 +55,7 @@ Donkey Carへ [coolerking/donkeypart_telemetry](https://github.com/coolerking/do
 ## 実行
 
 以下のように実行すると、`./tub_test` ディレクトリに入っているTubデータを順番に1/20秒の間隔でMQTTブローカへ送信する。
-'''bash
-
+```bash
 python tubplayer.py --tub tub_test
 ```
 
